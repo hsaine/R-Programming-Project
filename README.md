@@ -1,4 +1,5 @@
 <h1 Align="center">R Programming Project</h1>
+ <p align="center"> <img src="r.jfif"></p> 
 
 <h1 Align="center">General guidelines</h1>
 The first part of the session work is collecting data, describing its form, and how it
